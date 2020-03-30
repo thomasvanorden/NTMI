@@ -8,7 +8,7 @@ Course:   Natural Language Modeling and Interfaces (University of Amsterdam)
 ## Setup
 1. The dataset can be found here: http://ai.stanford.edu/~amaas/data/sentiment/
 2. Create a folder
-3. Unpack the .zip in that folder
+3. Unpack all the .zip files in that folder
 4. Create two subfolders named 'test' and 'train'
 5. These two subfolders should contain the dataset
 	5a. These two subfolders should at least both contain a folder 'neg' and a folder 'pos'
