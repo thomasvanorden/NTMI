@@ -26,3 +26,6 @@ Download the env.yaml file. Then, follow these instructions to install the envir
 ## How to use our NB classifier?
 1. Open jupyter notebook
 2. Run nb_classifier.ipynb
+
+## Report
+The report.pdf is written by Thomas van Orden and describes our method in more detail and discusses the results we obtained.
